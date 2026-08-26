@@ -30,3 +30,13 @@ To help students understand concepts clearly, practise regularly, and achieve be
 ---
 
 © 2026 SSI Tuition Centre
+ssi-tuition/
+├── assets/          # Images, logos, and static media
+├── components/      # Reusable UI components / modules
+├── controllers/     # Business logic and request handling
+├── models/          # Database schemas
+├── routes/          # API or page routing
+├── views/           # User interface templates
+├── .env.example     # Environment variable template
+├── package.json     # Project dependencies
+└── README.md        # Project documentation
