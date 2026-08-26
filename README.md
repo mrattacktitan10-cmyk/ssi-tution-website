@@ -40,3 +40,5 @@ ssi-tuition/
 ├── .env.example     # Environment variable template
 ├── package.json     # Project dependencies
 └── README.md        # Project documentation
+conceptual understanding
+personal attention
