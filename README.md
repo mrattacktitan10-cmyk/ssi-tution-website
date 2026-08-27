@@ -17,7 +17,7 @@ SSI Tuition Centre provides quality tuition and academic support for **CBSE and 
 
 ### 📍 Location
 
-**Milk Society Street, Kavalkinaru**
+**Milk Society Street, Kavalkinaru[via],Ambalavanapuram**
 
 ### 📞 Contact
 
